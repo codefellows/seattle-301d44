@@ -25,8 +25,8 @@ With `let`, a variable declaration can be scoped to a code block `{ code }`, suc
 
 Follow these instructions carefully and in order.
 
-1. Open the `index.html` file in the browser to ensure that it works.
-1. In the `app.js` file, turn all `var` variable declarations into `let`.
+1. Open the `index.html` file in the browser to ensure that it works.(done)
+1. In the `app.js` file, turn all `var` variable declarations into `let`.(done)
 1. After you do, there will be one error. Find that line in the code, delete that line and respond to the adjacent TODO task.
 1. Return to the browser and ensure that the code works again.
 1. Now, in the code, convert all `let` variable declarations into `const`.
