@@ -34,3 +34,5 @@ After that, follow the instructions below to fork and clone your class repositor
 1. As you work, verify the styling is maintained in the browser.
 1. When everything has been removed from style.css, delete the file, and delete the link from the HTML file.
 1. When finished, push your branch back to your fork on GitHub, and merge it into master. Submit the link to this pull request in the corresponding Canvas assignment. You can submit a link to a pull request even if the pull request is closed.
+
+
