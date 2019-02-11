@@ -26,7 +26,7 @@ Plan to spend about 5 minutes reading through this document before getting start
 
 After that, follow the instructions below to fork and clone your class repository, and then spend about 45 minutes working in the starter code.
 
-1. Fork and then clone the class repository from the link provided by the instructor in Slack into your `~/codefellows/301` directory, and navigate into that repo.
+1. Fork and then clone the class repository from the link provided by the instructor in Slack into yogit ur `~/codefellows/301` directory, and navigate into that repo.
 1. Work on your fork on a non-master branch. As you work, remember to add, commit, and push regularly.
 1. Start by reading through the HTML and CSS files to see how they are interconnected.
 1. Create the following files: base.css, layout.css, and modules.css, and link them into the HTML file. For this code base, you will not need state.css or theme.css files.
