@@ -193,14 +193,11 @@ console.log(joe.scopeArrow());
 
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
-//  on line 162 Student.prototype.greeting = function() {
-//   return `Hi, my name is ${this.name}`;
-// };
+//    "this" applies to the value of Joe, not completed with and arrow function,            thus it is bound to the declaration.
 //
 // 2. What is "this" when joe.scopeArrow() is invoked?
-//    line 182 Student.prototype.scope = function() {
-//   console.log(this);
-// };
-
+//    "this" applies to the browser window
+//   
+// 
 // 3. Explain why "this" is different when an arrow function is used.
 //    because an arrow function is not named. and not self referencing. as well as an arrow function puts "this" in the global window, with no references.
