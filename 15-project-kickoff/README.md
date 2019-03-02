@@ -16,3 +16,15 @@ The exam is open-book, open-Google, open-Stack_Overflow, whatever resources you 
 - Wrap up book app
 - Review of topics by request
 - Discuss [final project requirements](./project-guidelines.md)
+
+## Prior 301 Project Examples
+
+[MoodFellows](http://www.moodfellows.org/)
+[Gotta Eat](https://gotta-eat-app.herokuapp.com/)
+[RecipEase](https://ma-ja-cb-ts-301d42.herokuapp.com/)
+[Daily Plan-It](https://planner301.herokuapp.com/)
+[CoSearch](http://www.cosearch.info/)
+[Space Rover](http://www.spacerover.tech)
+[One-Bar](http://www.one-bar.info)
+[Nutri-Track](http://www.nutri-track.fit/)
+[Bold Move](www.boldmove.life)
